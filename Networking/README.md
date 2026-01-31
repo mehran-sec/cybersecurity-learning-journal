@@ -8,7 +8,7 @@
    - TCP Header
    - IPv4 Header
    - Ethernet Header
-     KEY POINTS
+    *  KEY POINTS
        - NETWORKING stack in os kernal
        - 20 bytes minimum header size for TCP and ip
        - Fregmentation at TCP if size > MTU
