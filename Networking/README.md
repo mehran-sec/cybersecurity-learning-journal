@@ -10,4 +10,6 @@
    - IPv4 Header
    - Ethernet Header
   # Subnetting
-  
+    - Based on need of number of hosts
+    - Based on need of number of networks
+      * VLSM 
