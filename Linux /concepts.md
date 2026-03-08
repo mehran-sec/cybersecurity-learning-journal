@@ -1,3 +1,10 @@
+# Difference in Linux and Windows 
+  - linux has monolithic kernal means it also handles the drivers while window have library for it 
+  - The file system :
+       The  linux has filesystem standard Hiearchy ( FSH ) means it have one root dierechtory and then
+        other file or drives  are  branches while in windows each drive is totaly  separate entity as C,D F. 
+  - Every thing in linux is file and comes under  the root dierechtory 
+
 ## Multiple users 
 Linux is made for multiple users it has
 * Root user  // special control
